@@ -6,6 +6,8 @@ This is a demo project in order to showcase my abilities. Assets are taken from 
 * Animate characters
 * Create HUD & menus
 * Build basic fighting game mechanics
+* Add sounds
+* Add music
 
 ## Tentative
 * Add one more stage
